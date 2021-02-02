@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gestione", "Gestione\Gestione.csproj", "{8855B944-9C5E-4568-8F41-5B31E4C04FE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestioneTest", "UnitTest\GestioneTest.csproj", "{89EB4679-AF07-4A69-9F90-0FC247385855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8855B944-9C5E-4568-8F41-5B31E4C04FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8855B944-9C5E-4568-8F41-5B31E4C04FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8855B944-9C5E-4568-8F41-5B31E4C04FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8855B944-9C5E-4568-8F41-5B31E4C04FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EB4679-AF07-4A69-9F90-0FC247385855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB4679-AF07-4A69-9F90-0FC247385855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB4679-AF07-4A69-9F90-0FC247385855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB4679-AF07-4A69-9F90-0FC247385855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4CFEADD-390E-4068-BF55-1E03A34EC3D8}
+	EndGlobalSection
+EndGlobal
